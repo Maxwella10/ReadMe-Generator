@@ -1,8 +1,8 @@
-# fgh
+# ReadMe-Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  qwe
+  This is a node application, that tales in user input. Through inquirer we can use that input and write it to a README.md file through the fs dependancy.
 
   ## Table of Contents
   - [Description](#description)
@@ -14,19 +14,19 @@
   - [Questions](#questions)
 
   ## Installation
-  tuy
+  First git clone this repo, Then npm i at the root, Finally run node index.js and answer the questions to create a README
 
   ## Usage
-  jhk
+  Answer each question, and at the end a README.md will be created at the root of this project
 
   ## License
-  ISC License
+  MIT License
 
   ## Contributing
-  zxc
+  Maxwell Acha
 
   ## Tests
-  sdf
+  N/A
 
   ## Questions
-  For any questions on this repo, you can reach the maintainer on [GitHub](https://github.com/hjk) or via email at tyu@gmail.com.
+  For any questions on this repo, you can reach the maintainer on [GitHub](https://github.com/Maxwella10) or via email at meziemmax7@gmail.com.
