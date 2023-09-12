@@ -68,13 +68,13 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contributing
-  ${data.contributing}
+  ${data.contributers}
 
   ## Tests
-  ${data.testing}
+  ${data.tests}
 
   ## Questions
-  For any questions on this repo, you can reach the maintainer on [GitHub](https://github.com/${data.githubUsername}) or via email at ${data.email}.
+  For any questions on this repo, you can reach the maintainer on [GitHub](https://github.com/${data.github}) or via email at ${data.email}.
 `;
 }
 
