@@ -1,12 +1,5 @@
+// Purpose: This file contains the function that generates the markdown for the README file.
 // function to generate markdown for README
-//function generateMarkdown(data) {
-//return `# ${data.title}
-
-//`;
-//}
-
-//module.exports = generateMarkdown;// Purpose: This file contains the function that generates the markdown for the README file.// function to generate markdown for README
-// ? Use handlebars or mustache to generate templated markdown
 function generateMarkdown(data) {
     // TODO: Add icon to top of README file based on switch case
     // When a user chooses a license for their application from a list of options, a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under.
@@ -80,4 +73,3 @@ function generateMarkdown(data) {
 
 // Changed below to export default with ESM
 module.exports = generateMarkdown;
-//export default generateMarkdown;
