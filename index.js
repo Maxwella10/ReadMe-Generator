@@ -1,38 +1,6 @@
-//const fs = require("fs");
-//const path = require("path");
-//const inquirer = require("inquirer");
-//const generateMarkdown = require("./utils/generateMarkdown");
-
-// array of questions for user
-//const questions = [];
-
-// function to write README file
-//function writeToFile(fileName, data) {}
-
-// function to initialize program
-//function init() {
-//console.log("The Program Starter");
-
-//inquirer
-//.prompt([{
-//type: "input",
-//message: "What is the title of your Project?",
-//name: "title",
-//}, {
-//type: "input",
-//message: "What is the description?",
-//name: "description",
-//}, {
-//type: "input",
-//message: "what is your email",
-//name: "email",
-//},
-//])
-//.then((response) => console.log(response));
-//}
-
 // function call to initialize program
-//init();// This section exports the packages that are required for this application.
+//init();
+// This section exports the packages that are required for this application.
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
